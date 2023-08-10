@@ -32,8 +32,7 @@ If you're excited about machine learning and want to explore the code, data, and
 
 ## How to Contribute
 
-We believe in the power of collaboration. If you're interested in contributing to this project, whether by suggesting improvements, adding new features, or fixing issues, we welcome your contributions. Please read our [Contribution Guidelines](CONTRIBUTING.md) to get started.
-
+We believe in the power of collaboration. If you're interested in contributing to this project, whether by suggesting improvements, adding new features, or fixing issues, we welcome your contributions. 
 ## Acknowledgements
 
 We'd like to express our gratitude to the amazing open-source community, which provides valuable resources, tools, and inspiration for projects like this.
